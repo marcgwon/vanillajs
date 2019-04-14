@@ -1,0 +1,14 @@
+body {
+  font-family: 'times new roman';
+  font-size: 30px;
+  text-align: center;
+}
+
+#js-clock h1 {
+  font-size: 150px;
+  color: royalblue;
+}
+
+#js-form {
+  font-size: 40px;
+}
